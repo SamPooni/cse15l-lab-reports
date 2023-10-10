@@ -35,22 +35,20 @@ The current working directory is /users/spooni. We do a ls of the Movies directo
 
 The current working directory is /users/spooni. When you run the ls command with  path to a file as argument as in this case manu.txt it will list the file. The output is not an error.
 
-# **7. An example of using the ls command with no arguments**
+# **7. An example of using the cat command with no arguments**
 
-![Image](cat with no arguments.png)
+![Image](cat with no arguments - hanging.png)
 
 The working directory is /users/spooni when the command was run. When you run the cat command without arguments it with hang expecting a file as input. You have to exit by pressing control-c on the terminal. The ouput is an error and it will hang.
 
-![Image](cat with no arguments - hang.png)
-
-# **8. An example of using the ls command with a path to the directory as an argument**
+![Image](cat with no arguments and exiting with control-c.png)# **8. An example of using the cat command with a path to the directory as an argument**
 
 ![Image](cat with a path to directory as argument.png)
 
-The current working directory is /users/spooni. We do a ls of the Movies directory. It list the contents of the Movies directory including the files and directories.The output is not an error.
+The current working directory is /users/spooni. We do a cat of the Movies directory it results in the error. The cat command will complain it is a directory. The output is not an error.
 
-# **9. An example of using the ls command with a path to a file as an argument**
+# **9. An example of using the cat command with a path to a file as an argument**
 
 ![Image](cat with a path to file as argument.png)
 
-The current working directory is /users/spooni. When you run the ls command with  path to a file as argument as in this case manu.txt it will list the file. The output is not an error.
+The current working directory is /users/spooni. When you run the cat command with path to a file as argument as in this case manu.txt it will list the contents of the file. The output is not an error.
