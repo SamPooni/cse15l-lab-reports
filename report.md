@@ -2,7 +2,7 @@
 
 ![Image](cd with no arguments.png)
 
-*Italic* The working directory is /users/spooni when the command was run. When you run the cd command without arguments the working directory would change to the home directory of the user. The ouput is not an error.
+*The working directory is /users/spooni when the command was run. When you run the cd command without arguments the working directory would change to the home directory of the user. The ouput is not an error.*
 
 '''
 print 'indent 4 spaces'
