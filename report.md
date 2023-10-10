@@ -1,4 +1,3 @@
-
 # **1. An example of using the cd command with no arguments**
 
 ![Image](cd with no arguments.png)
