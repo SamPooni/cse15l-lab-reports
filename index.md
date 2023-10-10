@@ -15,4 +15,4 @@ The current working directory is /users/spooni. We do a cd to the Movies directo
 
 ![Image](cd with a path to file as argument.png)
 
-The current working directory is /users/spooni. When you run the cd command with  path to a file as argument as in this case AWSCLIV2.pkg you will get an error. The ciurrent working directory remains the sames /Users/spooni. The error would say the argument provided is not a directory.
+The current working directory is /users/spooni. When you run the cd command with  path to a file as argument as in this case AWSCLIV2.pkg you will get an error. The current working directory remains the same as /Users/spooni. The error would say the argument provided to cd is not a directory.
