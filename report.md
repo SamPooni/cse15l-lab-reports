@@ -4,6 +4,10 @@
 
 *ItalicThe working directory is /users/spooni when the command was run. When you run the cd command without arguments the working directory would change to the home directory of the user. The ouput is not an error.*
 
+'''
+print 'indent 4 spaces'
+'''
+
 # **2. An example of using the cd command with a path to the directory as an argument**
 
 ![Image](cd with a path to directory as argument.png)
